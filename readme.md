@@ -5,7 +5,7 @@
 
 ## Authors
 
-- [@Theerasan Thimachai](https://github.com/Theerasan23)
+- [@Theerasan Thimachai dev](https://github.com/Theerasan23)
 
 
 ## API Reference
