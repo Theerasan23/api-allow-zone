@@ -1,3 +1,12 @@
+## express api กับการอนุญาตเฉพาะโซนประเทศ
+
+เป็นการทดลองปิดกันการเข้าถึง api ของเรา โดยใช้ countries-and-timezones 
+
+
+## Authors
+
+- [@Theerasan Thimachai](https://github.com/Theerasan23)
+
 
 ## API Reference
 
@@ -14,6 +23,22 @@
   zone          | `string` | **Required**. short zone , TH , US .etc |
 
 
+### ตัวอย่าง body 
 
 
+```json
+  {
+    "id":"1",
+    "user":"theerasan",
+    "zone":"TH"
+  }
+```
 
+## Installation
+
+Install project  with npm
+
+```bash
+  npm i # or npm init
+  npm run dev
+```
